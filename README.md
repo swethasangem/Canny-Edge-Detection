@@ -1,7 +1,4 @@
 # Canny-Edge-Detection
-
-# Canny Edge Detection
-
 This repository contains MATLAB code for performing Canny edge detection on an input image. Canny edge detection is a widely used technique in computer vision and image processing to identify edges in digital images.
 
 ## Technical Details
